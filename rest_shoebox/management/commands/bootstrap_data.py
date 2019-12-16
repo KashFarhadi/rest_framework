@@ -20,4 +20,3 @@ class Command(BaseCommand):
         ShoeColor.objects.create(color_name="Violet")
         ShoeColor.objects.create(color_name="White")
         ShoeColor.objects.create(color_name="Black")
-
