@@ -1,4 +1,4 @@
-## Welcome to Django ReST Framework Shoetree
+## Welcome to Django ReST Framework Shoestore
 
 ### Completed by
 Kash Farhadi
